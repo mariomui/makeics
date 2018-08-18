@@ -1,0 +1,195 @@
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Wednesday August 15th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Thursday August 16th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Friday August 17th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Monday August 20th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Tuesday August 21th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Wednesday August 22th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Thursday August 23th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Monday August 27th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Tuesday August 28th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Wednesday  August 29th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Thursday August 30th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Tuesday September 4th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Wednesday September 5th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE
+
+BEGIN:STANDARD
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:Thursday September 6th
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:VTIMEZONE}]
